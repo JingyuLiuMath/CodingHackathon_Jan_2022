@@ -1,0 +1,8 @@
+﻿  1013v2.cpp
+E:\CppCODE\day2\day2\1013v2.cpp(56,22): warning C4018: “<”: 有符号/无符号不匹配
+E:\CppCODE\day2\day2\1013v2.cpp(60,22): warning C4018: “<”: 有符号/无符号不匹配
+E:\CppCODE\day2\day2\1013v2.cpp(69,22): warning C4018: “<”: 有符号/无符号不匹配
+E:\CppCODE\day2\day2\1013v2.cpp(73,22): warning C4018: “<”: 有符号/无符号不匹配
+E:\CppCODE\day2\day2\1013v2.cpp(82,22): warning C4018: “<”: 有符号/无符号不匹配
+E:\CppCODE\day2\day2\1013v2.cpp(86,22): warning C4018: “<”: 有符号/无符号不匹配
+  day2.vcxproj -> E:\CppCODE\day2\Debug\day2.exe

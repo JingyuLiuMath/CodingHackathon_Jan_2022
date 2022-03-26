@@ -1,0 +1,73 @@
+指针传递，引用传递，传值传递
+
+Class
+class Point{
+int x;
+int y;
+Point(...) { } ; // 构造函数
+Point(int x, int y) {x = a; y = b};
+bool inOneline(Point &P2){
+return x == P2.x || y == P2.y};
+}
+Point P = Point( );
+Point P = Point(3, 5);
+P2.inOneline(P2)
+
+权限控制 
+public: // 可以访问
+protected:
+private: // 不可访问
+
+Struct
+struct Point
+{
+int x;
+int y;
+}
+Point P;
+P.x = 1;
+P.y = 2;
+
+fun1 (Point *P2)
+{
+(*P2).x = 1;
+P2 -> x = 1;
+}
+fun2(Point &P)
+
+二叉树
+class Node{
+Val v;
+Node* left;
+Node* right; 
+}
+
+输入数据
+Node root;
+for( ... ){
+Val v1;
+Node n;
+cin >> n.v1;
+root.left = &n;
+root = n;
+}
+
+树的遍历
+前序遍历: self --> left --> right
+中序遍历: left -- > self -- >right 
+后序遍历:left --> right --> self
+
+堆及堆排序
+二叉堆 = 二叉树 + 序关系;
+最大堆: 父 > 子
+最小堆: 父 < 子
+用堆实现优先队列:最大堆
+堆的构造
+swim 从下开始
+sink 
+
+算法实现
+用长度为n+1的数组存堆,第0位空
+
+Recursion
+
