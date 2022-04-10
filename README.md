@@ -1,6 +1,6 @@
 #  CodingHackathon_Jan_2022
 
-这篇 markdown 用于整理题目, 带 ? 表示未做出或未做的题目, 带 (*interesting*) 表示有趣的题目
+这篇 markdown 用于整理题目, 带 ? 表示未做出或未做的题目
 
 ## day1
 
